@@ -219,7 +219,7 @@ for epoch in range(args.epochs):
     # Record the statistics
     with open('patch_attack_log.csv', 'a') as f:
         writer = csv.writer(f)
-    writer.writerow([epoch, train_success_rate, test_success_rate])
+        writer.writerow([epoch, train_success_rate, test_success_rate])
 
     if test_success_rate > best_patch_success_rate:
         best_patch_success_rate = test_success_rate
