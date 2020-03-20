@@ -15,7 +15,7 @@ The successful attack rate of our best patch is in the chart below.
 ### Adversarial Patch
 One of our found best patch is shown below.
 <img src="./experiment_statistics/5%noise/pictures/best_patch.png" width = "100" height = "100" div align=center />
-![best_patch](./pictures/best_patch.png)
+![best_patch](./experiment_statistics/5%noise/pictures/best_patch.png)
 
 ## Reference:
 [1] Tom B. Brown, Dandelion Mané, Aurko Roy, Martín Abadi, Justin Gilmer  
