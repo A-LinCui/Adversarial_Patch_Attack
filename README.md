@@ -17,5 +17,4 @@ One of our found best patch is shown below.
 <img src="https://github.com/zhaojb17/Adversarial_Patch_Attack/blob/master/experiment_statistics/5%25noise/pictures/best_patch.png" width = 30% height = 30% div align=center />
 
 ## Reference:
-[1] Tom B. Brown, Dandelion Mané, Aurko Roy, Martín Abadi, Justin Gilmer  
-    [Adversarial Patch. arXiv:1712.09665](https://arxiv.org/abs/1712.09665)
+[1] Tom B. Brown, Dandelion Mané, Aurko Roy, Martín Abadi, Justin Gilmer [Adversarial Patch. arXiv:1712.09665](https://arxiv.org/abs/1712.09665)
