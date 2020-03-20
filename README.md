@@ -7,7 +7,7 @@ We generate the patch on 2000 randomly selected pictures with 50 epochs and diff
 After generated, the patch is tested on 1000 rondomly selected pictures.  
 The successful attack rate of our best patch is in the chart below.  
 
-|noise percentage | 0.5 | 0.6 |
+|noise percentage | 0.05 | 0.06 |
 |:----: | :----: |:----:|
 |patch size | (50, 50) | (54, 54) | 
 |successful rate | 98.48% | 99.61% |
