@@ -13,8 +13,9 @@ The successful attack rate of our best patch is in the chart below.
 |successful rate | 98.48% | 99.61% |
 
 ### Adversarial Patch
-One of our found best patch is shown below.
-<img src="./experiment_statistics/5%noise/pictures/best_patch.png" width = "100" height = "100" div align=center />
+One of our found best patch is shown below.  
+
+
 ![best_patch](experiment_statistics/5%noise/pictures/best_patch.png)
 
 ## Reference:
