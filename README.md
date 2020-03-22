@@ -7,10 +7,10 @@ We generate the patch on 2000 randomly selected pictures with 50 epochs and diff
 After generated, the patch is tested on 1000 rondomly selected pictures.  
 The successful attack rate of our best patch is in the chart below.  
 
-|noise percentage | 0.03 || 0.04 | 0.05 | 0.06 |
+|noise percentage | 0.03 | 0.04 | 0.05 | 0.06 |
 |:----: | :----: |:----:| |:----:| |:----:|
-|patch size | (40, 40) || (43, 43) || (50, 50) | (54, 54) | 
-|successful rate | 85.19% || 91.00% || 98.48% | 99.61% |
+|patch size | (40, 40) | (43, 43) | (50, 50) | (54, 54) | 
+|successful rate | 85.19% | 91.00% | 98.48% | 99.61% |
 
 ### Adversarial Patch
 One of our found best patch is shown below.  
